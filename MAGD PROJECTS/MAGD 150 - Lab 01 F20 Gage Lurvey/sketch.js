@@ -101,4 +101,3 @@ function draw() {
   point (320,196);
 
 }
-[SourceC1]
