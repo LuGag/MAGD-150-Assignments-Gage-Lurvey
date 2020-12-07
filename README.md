@@ -1,20 +1,20 @@
 ## Five Assignments for Github
 
 ### Lab Assignment 1
-  * [Source Code][SourceC1]
-  * [HTML][HTML1]
+  * [Source Code](
+  * [HTML](
 
 ### Lab Assignment 2
-  * [Source Code][SourceC2]
-  * [HTML][HTML2]
+  * [Source Code](
+  * [HTML](
   
 ### Lab Assignment 3
-  * [Source Code][SourceC3]
-  * [HTML][HTML3]
+  * [Source Code](
+  * [HTML](
   
 ### Lab Assignment 4
-  * [Source Code][SourceC4]
-  * [HTML][HTML4]
+  * [Source Code](
+  * [HTML](
 ### Lab Assignment 5
-  * [Source Code][SourceC5]
-  * [HTML][HTML5]
+  * [Source Code](
+  * [HTML](
