@@ -99,6 +99,6 @@ function draw() {
   //antena for building 2
   line(320,250,320,200);
   point (320,196);
-  
-  
+
 }
+[SourceC1]
